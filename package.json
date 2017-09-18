@@ -1,0 +1,22 @@
+{
+  "name": "graphql-goodread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moh7afiz90/graphql-goodread.git"
+  },
+  "author": "Mohanad Elhag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moh7afiz90/graphql-goodread/issues"
+  },
+  "homepage": "https://github.com/moh7afiz90/graphql-goodread#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
